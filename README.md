@@ -1,6 +1,6 @@
 # NextLevelWeek
 <h1 align="center">
-  <img src="mobile/src/assets/logo.svg" />
+  <img src="mobile/src/assets/logo@2x.png" />
   </h1>
   
   <h4 align="center"> 
@@ -17,7 +17,7 @@
   </p>
 
   <h1 align="center">
-  <img src="mobile/src/assets/home-background.svg" width="500px" />
+  <img src="image.jpg" width="500px" />
   </h1>
   
   
